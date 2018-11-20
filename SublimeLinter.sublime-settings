@@ -1,0 +1,22 @@
+// SublimeLinter Settings - User
+{
+
+"lint_mode": "manual",
+
+"highlights.demote_while_editing": "none",
+
+"paths": {
+    "linux": ["/home/pyc/anaconda3/bin/", "/home/pyc/.rbenv/shims"],
+    "osx": [],
+    "windows": []
+},
+
+"linters": {
+	"pylint": {
+		"disable": true
+	}
+
+}
+
+}
+

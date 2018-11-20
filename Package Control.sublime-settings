@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"Git",
+		"GitGutter",
+		"JsFormat",
+		"LaTeXing",
+		"Package Control",
+		"Python PEP8 Autoformat",
+		"SQLTools",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SublimeLinter-pycodestyle",
+		"SublimeLinter-pylint",
+		"SublimeLinter-ruby",
+		"SublimeREPL"
+	]
+}
